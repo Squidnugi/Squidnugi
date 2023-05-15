@@ -34,5 +34,9 @@ I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/120px-Microsoft_Office_Excel_%282019–present%29.svg.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png" title="bi" alt="bi" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" title="tab" alt="tab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
