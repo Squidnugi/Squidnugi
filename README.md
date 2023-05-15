@@ -9,4 +9,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Squidnugi&style=flat-square&color=blue" alt=""/>
+  <h1>
+</h1>
+</div>
+<div align="center">
+  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="600" height="300"/>
 </div>
