@@ -15,3 +15,13 @@
 <div align="center">
   <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="600" height="300"/>
 </div>
+
+### 👨‍💻 About Me :
+I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" width="30"> from the UK.
+- :telescope: I’m a Data Analyst looking for experiance in the field
+
+- :seedling: Visualizing Dara
+
+- :zap: In my free time (when not gaimng or watching anime) I am messing around with data
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-mcconville-7022a4223/)
