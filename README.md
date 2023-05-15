@@ -10,6 +10,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Squidnugi&style=flat-square&color=blue" alt=""/>
   <h1>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q4YTZjYTI0NjY0M2JjZjdkOTY2NDcyOTg2ZTBiZTNkOTg4MDczNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xTiIzJSKB4l7xTouE8/giphy.gif" width="450px"/>
 </h1>
 </div>
 <div align="center">
