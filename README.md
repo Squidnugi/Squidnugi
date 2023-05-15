@@ -40,3 +40,9 @@ I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Squidnugi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squidnugi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
