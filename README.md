@@ -42,4 +42,4 @@ I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Squidnugi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squidnugi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squidnugi&layout=compact&theme=vision-friendly-dark&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
