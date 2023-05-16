@@ -36,7 +36,6 @@ I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71
   <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png" title="bi" alt="bi" width="40" height="40"/>&nbsp;
   <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" title="tab" alt="tab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
 ---
