@@ -23,7 +23,7 @@ I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71
 
 - :zap: In my free time one of the things I like to do is messing around with data
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-mcconville-7022a4223/), <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20"> Discord: Squidnugi#8812, or Email: henrycmcconville@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-mcconville-7022a4223/), <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20"> Discord: Squidnugi#1143, or Email: henrycmcconville@gmail.com
 
 ---
 
