@@ -18,7 +18,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Data Analyst <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" width="30"> from the UK.
+I am a Junior Software deveoper <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" width="30"> from the UK.
 - :telescope: I’m a Data Analyst looking for experiance in the field
 
 - :zap: In my free time one of the things I like to do is messing around with data
