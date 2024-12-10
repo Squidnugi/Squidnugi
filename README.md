@@ -18,10 +18,10 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Junior Software deveoper <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" width="30"> from the UK.
-- :telescope: I’m a Software deveoper looking for experiance in the field
+I am a Junior Data Engineer <img src="https://i.pinimg.com/originals/25/81/28/258128ed71595efc9b561ed7d88b89f2.gif" width="30"> from the UK.
+- :telescope: I’m a Data Engineer looking for experiance in the field
 
-- :zap: In my free time one of the things I like to do is messing around with code
+- :zap: In my free time one of the things I like to do is messing around with data
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-mcconville-7022a4223/), <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20"> Discord: @Squidnugi, or Email: henrycmcconville@gmail.com
 
